@@ -4,12 +4,13 @@
     <PathDelim Value="\"/>
     <Version Value="10"/>
     <BuildModes Active="Default"/>
-    <Units Count="14">
+    <Units Count="18">
       <Unit0>
         <Filename Value="Functions.lpr"/>
         <IsPartOfProject Value="True"/>
-        <CursorPos X="81" Y="11"/>
-        <UsageCount Value="26"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="106" Y="12"/>
+        <UsageCount Value="30"/>
         <Loaded Value="True"/>
       </Unit0>
       <Unit1>
@@ -18,14 +19,14 @@
         <UnitName Value="PING"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="6"/>
-        <UsageCount Value="26"/>
+        <UsageCount Value="30"/>
       </Unit1>
       <Unit2>
         <Filename Value="test_function.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="4" Y="16"/>
-        <UsageCount Value="26"/>
+        <UsageCount Value="30"/>
       </Unit2>
       <Unit3>
         <Filename Value="text_test.pas"/>
@@ -33,7 +34,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="2"/>
         <CursorPos X="33" Y="9"/>
-        <UsageCount Value="26"/>
+        <UsageCount Value="30"/>
       </Unit3>
       <Unit4>
         <Filename Value="pmt_function.pas"/>
@@ -41,7 +42,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="3"/>
         <CursorPos Y="12"/>
-        <UsageCount Value="26"/>
+        <UsageCount Value="30"/>
       </Unit4>
       <Unit5>
         <Filename Value="c2f_function.pas"/>
@@ -49,7 +50,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="7"/>
         <CursorPos X="14" Y="20"/>
-        <UsageCount Value="26"/>
+        <UsageCount Value="30"/>
       </Unit5>
       <Unit6>
         <Filename Value="f2c_function.pas"/>
@@ -57,7 +58,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="3"/>
         <CursorPos X="21" Y="19"/>
-        <UsageCount Value="26"/>
+        <UsageCount Value="30"/>
       </Unit6>
       <Unit7>
         <Filename Value="factorial_function.pas"/>
@@ -65,14 +66,14 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="4"/>
         <CursorPos Y="14"/>
-        <UsageCount Value="26"/>
+        <UsageCount Value="30"/>
       </Unit7>
       <Unit8>
         <Filename Value="bin2dec_function.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="32" Y="2"/>
-        <UsageCount Value="26"/>
+        <UsageCount Value="30"/>
       </Unit8>
       <Unit9>
         <Filename Value="dec2bin_function.pas"/>
@@ -80,41 +81,69 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="7"/>
         <CursorPos X="25" Y="8"/>
-        <UsageCount Value="23"/>
+        <UsageCount Value="27"/>
       </Unit9>
       <Unit10>
-        <Filename Value="ping_function.pas"/>
-        <EditorIndex Value="1"/>
-        <TopLine Value="7"/>
-        <CursorPos X="38" Y="21"/>
-        <UsageCount Value="13"/>
-        <Loaded Value="True"/>
-      </Unit10>
-      <Unit11>
         <Filename Value="dec2hex.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="21"/>
-        <UsageCount Value="22"/>
+        <UsageCount Value="26"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="hex2dec_function.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7"/>
+        <CursorPos X="46" Y="16"/>
+        <UsageCount Value="25"/>
       </Unit11>
       <Unit12>
+        <Filename Value="ping_function.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <CursorPos X="22" Y="15"/>
+        <UsageCount Value="13"/>
+      </Unit12>
+      <Unit13>
         <Filename Value="dec2hex_function.pas"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="25" Y="8"/>
         <UsageCount Value="10"/>
-      </Unit12>
-      <Unit13>
-        <Filename Value="hex2dec_function.pas"/>
-        <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
-        <EditorIndex Value="2"/>
-        <TopLine Value="13"/>
-        <CursorPos X="16" Y="29"/>
-        <UsageCount Value="21"/>
-        <Loaded Value="True"/>
       </Unit13>
+      <Unit14>
+        <Filename Value="repeat_function.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="14"/>
+        <CursorPos X="7" Y="35"/>
+        <UsageCount Value="24"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="trim.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="19"/>
+        <UsageCount Value="23"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="trim_function.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="3"/>
+        <CursorPos X="17" Y="16"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="compare_function.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="14"/>
+        <CursorPos X="22" Y="25"/>
+        <UsageCount Value="21"/>
+      </Unit17>
     </Units>
-    <JumpHistory Count="10" HistoryIndex="9">
+    <JumpHistory Count="13" HistoryIndex="12">
       <Position1>
         <Filename Value="Functions.lpr"/>
         <Caret Line="6" Column="43"/>
@@ -155,6 +184,18 @@
         <Filename Value="Functions.lpr"/>
         <Caret Line="11" Column="81"/>
       </Position10>
+      <Position11>
+        <Filename Value="Functions.lpr"/>
+        <Caret Line="8" Column="78"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Functions.lpr"/>
+        <Caret Line="11" Column="97"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Functions.lpr"/>
+        <Caret Line="12" Column="106"/>
+      </Position13>
     </JumpHistory>
   </ProjectSession>
 </CONFIG>
